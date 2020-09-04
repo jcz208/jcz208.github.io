@@ -1,4 +1,4 @@
-# A Quick FAQ
+# A Brief FAQ
 
 ### Who is this?
 
