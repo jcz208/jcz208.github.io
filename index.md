@@ -1,7 +1,5 @@
-Hello and welcome to this blog. Edit the `index.md` file to change this content. All pages on the blog, including this one, use [Markdown](https://guides.github.com/features/mastering-markdown/). You can include images:
+Hey there! I'm Jeffrey. Nice to meet you.
 
-![Image of fast.ai logo](images/logo.png)
+From this blog(?), you can expect my thoughts on papers and concepts in AI safety, stuff on effective altruism, and other assorted ramblings.
 
-## This is a title
-
-And you can include links, like this [link to fast.ai](https://www.fast.ai). Posts will appear after this file. 
+If you want to contact me, do so at jeffrey.duan@uconn.edu. Feel free to reach out about anything, just to talk, or to complain about something.
