@@ -19,3 +19,5 @@ Life is like the Liar Paradox, in that you probably shouldn't care about that sh
 Life is like general relativity, in that a lot depends on your frame of reference, so you should probably choose one that doesn't involve being a bitch.
 
 Life is like anything that Cantor did, in that it'll probably make you go crazy too.
+
+Life is like this blog post, in that you can pretty much twist anything into a half-applicable "definition" of it.
