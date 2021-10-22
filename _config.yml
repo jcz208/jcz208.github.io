@@ -7,15 +7,15 @@
 # https://learnxinyminutes.com/docs/yaml/
 
 title: Jeffrey Duan's Writings
-description: This is where the description of your site will go. You should change it by editing the _config.yml file. It can be as long as you like! Happy blogging... ❤
-github_username: jph00
+description: ...How the hell did you find this?
+github_username: jcz208
 
 # Email and twitter are optional:
-email:
-twitter_username:
+email: jeffrey.duan@uconn.edu
+twitter_username: 
 
 # Set this to true to get LaTeX math equation support
-use_math:
+use_math: true
 
 # Add your Google Analytics ID here if you have one and want to use it
 google_analytics:
